@@ -1,0 +1,7 @@
+/* 
+    polionefritis
+    cistitis
+    glomerulonefritis
+    lupus
+    Amiloidosis
+*/

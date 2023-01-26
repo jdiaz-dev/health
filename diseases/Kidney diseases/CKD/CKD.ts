@@ -30,3 +30,18 @@
         sauzgatillo (regulate the rule)
 
 */
+
+/* 
+    * problems with CDK
+        - high albuminura
+        - high creatinina
+*/
+
+/* 
+    * recomendations for food to heal for CDK
+        - radish
+        - cucumber
+        - radish leaves
+        - do meditation
+*/
+
