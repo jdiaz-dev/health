@@ -2,6 +2,7 @@
     *  tendinopatía (tendinitis)
 
         - realize isometric exercises
+        
 */
 
 
