@@ -1,0 +1,3 @@
+/*
+    - bathe (bañarse)
+*/
