@@ -1,26 +1,31 @@
 /*
 
-//plan of weeks
+// --------------------plan of weeks
 [
     {
+        _id: id,
         week: number,
         day: number,
-        plan:{
-            meals: [
+        planMeals: [
                 {
                     mealId, //crud
                     tagFood,
                     position, //to order
-                    nameRecipe,
-                    ingredients:[],
+                    recipeName,
+                    ingredients:[ {amount (g), ingredient}],
                     recipe,
                     isDeleted
+                    macros:{
+                        calories,
+                        protein,
+                        carbs,
+                        fat
+                    }
+                    micros:{}
 
                 }
-            ],
-            workouts :[]
-        }
-        users:[ userId ]
+        ],
+        planWorkouts :[]
         isDeleted
         createdAt
         updatedAt
@@ -30,18 +35,29 @@
 // -------------------- user plans
 
 plan:{
-    meals: [
+    planId,
+    assignedDate
+    title
+    planMeals: [
         {
             mealId, //crud
             tagFood,
             position, //to order
-            nameRecipe,
-            ingredients:[],
+            recipeName,
+            ingredients:[ {amount (g), ingredient}],
             recipe,
             isDeleted
+            macros:{
+                calories,
+                protein,
+                carbs,
+                fat
+            }
+            micros:{}
+
         }
     ],
-    workouts :[ ]
+    planWorkouts :[ ]
     comments:[
         {
             commentId
@@ -57,7 +73,8 @@ plan:{
         }
     ]
     commentResult
-    status: [ "completed", "missed", "upcoming"]
+    state: [ "completed", "missed", "upcoming"]
+    isDeleted
 }
 
 

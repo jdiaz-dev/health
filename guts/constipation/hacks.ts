@@ -13,5 +13,16 @@
                 grapes
                 chard
         - eat tamales of corn (rich in fiber and salt)
+        - god bedroom, hard bedroom and above soft bedroom
+
+
+
+    - streng workout (load rice bags)
+    - skiers
+    - wash in cold water your foots
+
+
+
+
 
 */
