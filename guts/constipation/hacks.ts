@@ -22,7 +22,8 @@
     - wash in cold water your foots
 
 
-
+    combination of
+        olive oil, lemon juice and potassium, magnesium
 
 
 */

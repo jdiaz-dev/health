@@ -32,6 +32,46 @@
     }
 ]
 
+// --------------------redesing plan of weeks
+[
+    {
+        _id: id,
+        week: number,
+        day: number,
+        mealPlans: [
+                {
+                    mealId, //crud
+                    mealTag ,  //example: luchn, dinner, breakfast
+                    position, //to order
+                    mealElement:[
+                        {
+                            _id,
+                            name,
+                            ingredientDetail:[],
+                            cookingInstructions,
+                            macros:{
+                                calories,
+                                protein,
+                                carbs,
+                                fat
+                            }
+                            micros:{}
+                            isDeleted
+                        }
+                    ]
+                    isDeleted
+
+
+
+                }
+        ],
+        planWorkouts :[]
+        isDeleted
+        createdAt
+        updatedAt
+    }
+]
+
 // -------------------- user plans
 
 plan:{
@@ -76,12 +116,6 @@ plan:{
     state: [ "completed", "missed", "upcoming"]
     isDeleted
 }
-
-
-
-
-
-
 
 
 
