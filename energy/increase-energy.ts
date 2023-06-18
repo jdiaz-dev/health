@@ -20,4 +20,6 @@
         - celery stalk
 
     - eat more fat
+
+    - drink ginger and turmeric tea
 */

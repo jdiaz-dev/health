@@ -1,5 +1,6 @@
 /*
     general
+        - the key to be beatibul is to absort the nutrients, the warm water help to a better diggestion and absortion
 */
 
 /*
@@ -17,4 +18,11 @@
 /*
     - cleaner and smooth skin
         lemon
+*/
+
+
+/*
+    eyes:
+        - cow butter
+        - 1 big spoon coconut oil
 */
