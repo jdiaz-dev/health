@@ -15,5 +15,7 @@
   3/09/2023
   - I dream with Pamela, I kill to shes boyfriend (I split in 2 his head) and she followed me, I don't know the reason she followed me
 
+  7/9/2023
+  - I dream with Diego and Pepe they were gaming dota and I joined them
 
 */
