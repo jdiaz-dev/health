@@ -12,3 +12,10 @@
 
 
 */
+
+/* 
+  abrigarse la pierna
+  ejercicio hecahdo en la cama, y levantamiento de trasero con 1 pie
+  colgar el pie
+
+*/
