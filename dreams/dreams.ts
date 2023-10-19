@@ -18,11 +18,15 @@
   11/09/2023
   - I dream that over one parchment was written God and Moises love you
 
+  7/9/2023
+  - I dream with Diego and Pepe they were gaming dota and I joined them
+  
   18/10/23
   - I dream that I was in a place type bibliotecate, the most strage is that I feel that could manipulate completely my dream, when I was checking books those were in different languages, at the end one book fault in my hands, it was the bible and it was in a language that I can understand
 
   - I received an object that contains a demon, I thought that the demon will attack me, but really I killed the demon, I believe that exorcisated he
 
 
+  
 
 */
