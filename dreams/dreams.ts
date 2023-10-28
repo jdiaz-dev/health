@@ -26,7 +26,8 @@
 
   - I received an object that contains a demon, I thought that the demon will attack me, but really I killed the demon, I believe that exorcisated he
 
-
+  28/10/23
+  - I dream with the end of world. There were many twister(tornados) what every moment were surgering from the skies, trees and earth blocks were flying by the skies, many insects as spiders were failing in my around and my family
   
 
 */
