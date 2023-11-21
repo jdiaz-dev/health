@@ -15,6 +15,9 @@
     * fine hair
         - tea of ginger and turmeric (with warm water)
 
+    - smooth hair
+        - selenium
+
 */
 
 /* 
