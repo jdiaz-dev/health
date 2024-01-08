@@ -26,3 +26,8 @@
         - cow butter
         - 1 big spoon coconut oil
 */
+
+/* 
+    face, youngest, smile
+        - water with salt
+*/

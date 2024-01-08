@@ -5,14 +5,13 @@
     * posible helpers
         - exercises with the broom
 
-
-
 */
 
 /*
     - antioxidants
         - ginger
         - bell pepper
+        - turmeric with sun
 
     - foods thelps with acid uric pain (gout??) and give energy
         - cabagge
