@@ -1,0 +1,9 @@
+/* 
+    constipation
+        posible causses
+            artrosis in dorsal spine
+            sibo
+            candidiasis
+            hashimoto disease
+
+*/
