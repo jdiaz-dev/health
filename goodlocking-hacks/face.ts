@@ -11,5 +11,5 @@
 
 /* 
     to form face
-        - selenium, brasil nuts
+        - selenium, brasil nuts, MSM, 
 */

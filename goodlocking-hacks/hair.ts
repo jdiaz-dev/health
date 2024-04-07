@@ -18,6 +18,9 @@
     - smooth hair
         - selenium
 
+    - lise hair
+        silica
+
 */
 
 /* 
