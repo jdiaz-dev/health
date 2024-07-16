@@ -1,6 +1,6 @@
 /* 
 
-  Jne aproximately
+  June aproximately
   - I dream that an angel appears and say me apologizate with your dad
 
   Some day in August
@@ -29,5 +29,13 @@
   28/10/23
   - I dream with the end of world. There were many twister(tornados) what every moment were surgering from the skies, trees and earth blocks were flying by the skies, many insects as spiders were failing in my around and my family
   
+  16/07/24
+  - I entried to my home (Flavia home) after to be with some friends, I was still young (18 yeaars approx), my mom was claiming me why I was drunk, and I gone the my bed to sleep
+  - one snake entried to my ass and after it get out due the gases produced in it
+  - after to get out, It tried to entry in my dad and I gone and I kill to the snake stepping its head
+  - after the deamon appeared and tried posses my being. He show me in one picture what deamon now I will be and one text in italian language that may help me to break the possesion, after he tried to kill me using a bing horn to drill my stomach
+  - finally appeared one old man with long white beard with majestic appearance, he deflected the horn that was to drill me
+  - and told me that he will aid to fight with the deamon, appeared other old man with long beard and bald head, He started to build one artifact with metal (I believe that he was continuing to finish my job)
+
 
 */
