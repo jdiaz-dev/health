@@ -37,5 +37,11 @@
   - finally appeared one old man with long white beard with majestic appearance, he deflected the horn that was to drill me
   - and told me that he will aid to fight with the deamon, appeared other old man with long beard and bald head, He started to build one artifact with metal (I believe that he was continuing to finish my job)
 
+  19/07/24 (vision after to accept to god in my hearth)
+  - el mundo (representado por edicios y la civilizacion)iba a ser inundado con olas desde otro lado del mar, el volcan estaba erupcionando, dios me decia que el mundo necesita luz
+  - en esa civilizacion habia una chica que caminaba que parecia preciosa (usaba tacos y vestido) y cuando volteo note que se estaba convirtiendo en demonio y todos a su alrededor ya eran demonios ( el mensaje era que yo debia rescatarla)
+  - despues en la vision se me mostro todo el universo y diso me indico que el es infinito y que debia librar una batalla contra la oscuridad, habia una especie de daga en el medio y oscuridad y luz fueron absorbidos por esa especie de daga (creo que representaba que debia haber un equilibrio)
+
+
 
 */
