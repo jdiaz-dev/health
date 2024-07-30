@@ -43,5 +43,10 @@
   - despues en la vision se me mostro todo el universo y diso me indico que el es infinito y que debia librar una batalla contra la oscuridad, habia una especie de daga en el medio y oscuridad y luz fueron absorbidos por esa especie de daga (creo que representaba que debia haber un equilibrio)
 
 
-
+  30/07/24 (vision after to want to know who is behind all dones (desgracias and good things) in the world)
+  - I was trying to sleep and suddenly I was transporte to Juana home, I was transported to the window of the corridor, I could smell everything there and visualizate everything how is actually in the present 
+  - I thought it is not a normal power, it is a divine power
+  - After I started to be raised to the sky I was raised passing through the clouds
+  - I was thinking that I was dead and I was being carried to the sky, and I told to the entity that was carring me to the sky that I need to say goodbye to the people that I know
+  - when I arrived to the sky I had doubds if I was seeing to god angry or if it was a helper god I was with my tie hands behind my back and I was carried to the be jugded in god's presence    
 */
