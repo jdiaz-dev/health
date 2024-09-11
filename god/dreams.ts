@@ -50,4 +50,11 @@
   - I was thinking that I was dead and I was being carried to the sky, and I told to the entity that was carring me to the sky that I need to say goodbye to the people that I know
   - when I arrived to the sky I had doubds if I was seeing to god angry or if it was a helper god I was with my tie hands behind my back and I was carried to the be jugded in god's presence    
   - (possible interpretation, god say me that everything that happend in the earth is desicion of god)
+
+  10/08/24 (vision)
+  - the earth subia by all human body, and the universe show itsefl
+  - my interpretation: heal the earth and the earth will heal all diseases
+
+
+
 */
