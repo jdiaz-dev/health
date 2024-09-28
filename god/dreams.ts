@@ -56,5 +56,18 @@
   - my interpretation: heal the earth and the earth will heal all diseases
 
 
+  19/09/24 (vision)
+  - dios estaba en batalla contra el mal, dios perdia guerreros y dios me eligio para ser uno de sus guerreros, me dio caballo y armadura brillante, y me dijo que solo era uno de sus guerreros
 
+  23/09/24 (vision)
+  - los caballos y las armaduras solo son contenedores del espiritu de dios y de los guerreros
+  - dios siempre vencera el mal, pero el mal cree que puede estar a la altura de dios
+
+  28/09/24 (vision)
+  - despues de machacarmela, la luz del sol me ilumina y me pregunta ¿que has hecho hijo mio?
+
+
+
+  
 */
+
