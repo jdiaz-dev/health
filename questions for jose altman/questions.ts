@@ -1,5 +1,4 @@
 /* 
-
     -> acelerado
     9 dias de ayuno de frutas (papaya)
     -sandias y melones deberiamos comerlos solos
@@ -14,6 +13,10 @@
         - must not exist estress?
         - why I low weight when I do breathwork?
         - during the first block, during the exhalations, How many time should I realize every exhalation (3 exhalations)? 
+        - las exhalaciones deben ser forzadas (es decir se debe poner algo de fuerza)
+         mi estomago tiende a moverse mucho cuando hago breathwork, es normal?
+         - las inhalaciones y las exhalaciones deben ser gentiles para todos los casos (todos los patrones?
+         - cuanto mas gentil mi respiracion, se empieza a mover mi estomago solo (eso es normal?)
 
 */
 
@@ -33,7 +36,6 @@
         - when we run at high velocities, we should breathe by the nose or by the mouth
 
 */
-
 
 /* 
     NUTRICION

@@ -1,0 +1,6 @@
+/* 
+the quality of thinkings depends of your intestinate and if the people  is not consuming nutritionally dense  foods or they are not being capable to leverage this foods because their guts are obstructed and toxic.
+
+One nutritions that know how to works the body can heal itself directly will influence how the people behave and think and how kick it happens. So the nutritionist and health professionals has a big resposability. Therefore they need to learn the knowledge that really will help the their patients
+
+*/
