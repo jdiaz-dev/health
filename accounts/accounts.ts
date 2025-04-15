@@ -1,0 +1,6 @@
+/* 
+
+    personal english instagram - jonathan.a.diaz.m@gmail.com
+    personal english tiktok - jonathan.a.diaz.m@gmail.com
+    personal english youtube - jonathanalejandrodm369@gmail.com
+*/
