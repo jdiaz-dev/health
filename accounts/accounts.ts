@@ -8,5 +8,6 @@
 /* 
     personal spanish instagram - lordgelsin26@gmail.com
     personal spanish tiktok - software.athvio@gmail.com
+    personal spanish youtube - lordgelsin27@gmail.com
 
 */
