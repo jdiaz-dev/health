@@ -25,6 +25,7 @@
     eyes:
         - cow butter
         - 1 big spoon coconut oil
+        - pears
 */
 
 /* 
