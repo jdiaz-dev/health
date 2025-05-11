@@ -25,6 +25,7 @@
     eyes:
         - cow butter
         - 1 big spoon coconut oil
+        - 5 sppoons of olive oil (required because works with liposoluble vitamins?)     
         - pears
 */
 
