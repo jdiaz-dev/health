@@ -1,4 +1,10 @@
 /* 
+    IMPORTNAT:
+        - Forbidden to use your name for youtube channels (jonathan.diaz, etc) it is forbidden or YT will vanish the channel
+*/
+
+
+/* 
 
     personal english tiktok - jonathan.a.diaz.m@gmail.com
     personal english youtube - jonathanalejandrodm369@gmail.com
