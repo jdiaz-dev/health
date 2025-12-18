@@ -48,3 +48,8 @@
 
 
 */
+
+/* 
+    failed create account in AWS:
+        - 987621814 (CLARO)
+*/
