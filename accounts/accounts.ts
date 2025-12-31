@@ -3,7 +3,6 @@
         - Forbidden to use your name for youtube channels (jonathan.diaz, etc) it is forbidden or YT will vanish the channel
 */
 
-
 /* 
 
     personal english tiktok - jonathan.a.diaz.m@gmail.com
@@ -50,6 +49,14 @@
 */
 
 /* 
-    failed create account in AWS:
+    failed create account for the project:
         - 987621814 (CLARO)
+        - pieroponce63@gmail.com
+*/
+
+/* 
+    for the project
+    - Lucas Diaz Ugarte
+    - 905571068
+    - kabeldiaz
 */
