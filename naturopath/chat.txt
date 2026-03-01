@@ -1,0 +1,10 @@
+Dr. Javier buen dia
+soy Jonathan Diaz, alumno de la clase de naturopatia del módulo 1
+
+Ud. mencionó mencionó que como naturópatas debemos estar al menos 1 hora dialogando con el paciente para conocer bien su situación
+
+Yo estoy construyendo una funcionalidad de software que permite enviar un cuestionario de preguntas a el correo del paciente, esto permite a el paciente ir respondiendo las preguntas, asi cuando nosotros como naturópatas tengamos la consulta podamos leer el cuestionario respondido y utilizar este cuestionario durante la consulta. Además este cuestionario quedaria guardado en el historial del paciente.
+
+Quería mostrarselo a Ud. primero para que según su criterio me pueda indicar si es una funcionalidad de software que puede ayudar a los naturópatas a ahorrar tiempo y optimizar procesos 
+
+La plataforma es de libre acceso y si Ud. está deacuerdo puedo compartir el link por el grupo
