@@ -54,6 +54,8 @@
     failed create account for the project:
         - 987621814 (CLARO)
         - pieroponce63@gmail.com
+
+    number using by QDS: 987621814
 */
 
 /* 
