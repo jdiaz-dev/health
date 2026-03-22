@@ -21,7 +21,7 @@
 /* 
     nutrition athvio account:
         - tiktok spanish: pieroponce63@gmail.com
-        - youtube spanish: pieroponce63@gmail.com
+        - youtube spanish: pieroponce63@gmail.com, jona.diaz.m26@gmail.com
             associated number : (claro) 987621814
         - instagram spanish: pieroponce63@gmail.com
 */
