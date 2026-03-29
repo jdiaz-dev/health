@@ -48,6 +48,8 @@
     -> proton.me
     marisol1.mov1@proton.me
     benjamin.perez.t6@proton.me
+    ulucas581@proton.me
+
 */
 
 /* 
@@ -63,4 +65,9 @@
     - Lucas Diaz Ugarte
     - 905571068
     - kabeldiaz
+*/
+
+/* 
+    AVENA   
+        - ulucas581@proton.me
 */
